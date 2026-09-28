@@ -1,3 +1,3 @@
 this is my first repository
 <br>
-Author- vashishtmuni gupta 
+Author- vashishtmuni gupta (collage) 
